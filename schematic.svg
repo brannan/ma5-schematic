@@ -26,15 +26,15 @@
      showgrid="false"
      units="in"
      width="1866px"
-     inkscape:zoom="1.8918618"
-     inkscape:cx="382.42751"
-     inkscape:cy="455.10724"
-     inkscape:window-width="2344"
+     inkscape:zoom="1.1273772"
+     inkscape:cx="1034.259"
+     inkscape:cy="438.18521"
+     inkscape:window-width="1627"
      inkscape:window-height="1374"
-     inkscape:window-x="216"
+     inkscape:window-x="51"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="svg5"
      inkscape:snap-global="true"
      inkscape:lockguides="true">
     <inkscape:grid
@@ -558,7 +558,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Symbols"
-     style="display:inline">
+     style="display:none">
     <g
        id="g476560"
        transform="translate(145.77971,-11.345303)"
@@ -2914,7 +2914,7 @@
     <path
        id="path83320-3"
        style="display:inline;stroke-width:0.4"
-       d="m 568.99717,122.86451 a -0.58615848,0.58615848 0 0 0 0.58616,0.58616 -0.58615848,0.58615848 0 0 0 0.58616,-0.58616 -0.58615848,0.58615848 0 0 0 -0.58616,-0.58616 -0.58615848,0.58615848 0 0 0 -0.58616,0.58616 z" />
+       d="m 568.99717,122.86451 a 0.58615848,0.58615848 0 0 0 0.58616,0.58616 0.58615848,0.58615848 0 0 0 0.58616,-0.58616 0.58615848,0.58615848 0 0 0 -0.58616,-0.58616 0.58615848,0.58615848 0 0 0 -0.58616,0.58616 z" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 571.29326,122.80137 h -1.73207 l -6.63493,-1.06376"
@@ -3106,7 +3106,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Engine"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16957-6"
@@ -5404,7 +5404,7 @@
           <path
              id="path14701-0"
              style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 200.61614,135.46872 1.76463,1.01882 -1.78651,1.03144 m 1.78651,-1.03144 h 18.47355 l 0,44.98168"
+             d="m 200.61614,135.46872 1.76463,1.01882 -1.78651,1.03144 m 1.78651,-1.03144 h 18.47355 v 44.98168"
              sodipodi:nodetypes="ccccc" />
         </g>
       </g>
@@ -11811,15 +11811,15 @@
        y="0"><tspan
          x="1262.6777"
          y="225.20489"
-         id="tspan44399"><tspan
+         id="tspan8316"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan44397">B&amp;C LRD3-14 
+           id="tspan8314">B&amp;C LRD3-14 
 </tspan></tspan><tspan
          x="1235.0527"
          y="235.20489"
-         id="tspan44403"><tspan
+         id="tspan8320"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan44401">CONTROLLER / REGULATOR</tspan></tspan></text>
+           id="tspan8318">CONTROLLER / REGULATOR</tspan></tspan></text>
     <g
        id="g28407"
        transform="translate(2.3588817,-37.085961)">
@@ -15760,7 +15760,7 @@
      inkscape:groupmode="layer"
      id="g4458"
      inkscape:label="Schematic - 2"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1746"
@@ -19060,15 +19060,15 @@
        y="0"><tspan
          x="1262.6777"
          y="225.20489"
-         id="tspan44407"><tspan
+         id="tspan8324"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan44405">B&amp;C LRD3-14 
+           id="tspan8322">B&amp;C LRD3-14 
 </tspan></tspan><tspan
          x="1235.0527"
          y="235.20489"
-         id="tspan44411"><tspan
+         id="tspan8328"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan44409">CONTROLLER / REGULATOR</tspan></tspan></text>
+           id="tspan8326">CONTROLLER / REGULATOR</tspan></tspan></text>
     <g
        id="g3171"
        transform="translate(-82.603888,-38.804376)">
